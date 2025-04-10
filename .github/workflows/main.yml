@@ -35,7 +35,7 @@ jobs:
         run: npm i
       # Build app bundle
       - name: Build
-        run: npm run build:prod
+        run: npm run build-prod
       #Route file renaming
       #- name: Rename index for routing
       #  run: mv dist/angular-app.index.html dist/angular-app/404.html

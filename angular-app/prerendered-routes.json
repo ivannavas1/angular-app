@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/angular-app": {},
+    "/angular-app/home": {}
+  }
+}
